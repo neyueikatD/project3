@@ -1,0 +1,22 @@
+.datepicker-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color:#f2f2f2;
+}
+.current-month {
+    color: #333;
+}
+.other-month {
+    color: #999;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td {
+    padding: 5px;
+    text-align: center;
+    border: 1px solid #ddd;
+}

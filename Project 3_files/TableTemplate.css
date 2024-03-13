@@ -1,0 +1,19 @@
+
+class TableTemplate{
+    color: #f2f2f2;
+}
+statictable {
+  width: 100%;
+  border-collapse: collapse;
+}
+.current-month {
+    color: #333;
+}
+.other-month {
+    color: #999;
+  } 
+th,td {
+  padding: 5px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
